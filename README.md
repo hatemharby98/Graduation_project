@@ -20,12 +20,12 @@ This repository contains the source code and documentation for our graduation pr
   
 ---
 
-## 👥 The Team
+## The Team
 
-### 👑 Team Leader
+### Team Leader
 * **Hatem Harby**
 
-### 💻 Team Members
+### Team Members
 * Hossam
 * Mohamed Mohammady
 * Mohamed Ragab
