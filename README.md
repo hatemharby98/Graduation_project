@@ -18,27 +18,35 @@ This repository contains the source code and documentation for our graduation pr
 * **Database:** SQLite / MySQL
 * **Tools:** Wireshark, Nmap (for testing)
   
-###Acknowledgments & Supervision
+---
+
+## 👥 The Team
+
+### 👑 Team Leader
+* **Hatem Harby**
+
+### 💻 Team Members
+* Hossam
+* Mohamed Mohammady
+* Mohamed Ragab
+* Al-Moataz Billah Mahmoud
+* Saleh Ali
+* Ahmed Ismail
+* Roaa Ahmed
+* Kirollos Nader
+* Esraa Khalaf
+* Mohamed Khaled
+* Sara Atef
+* Aya Ali
+
+---
+
+##  Acknowledgments & Supervision
+
 We would like to express our deepest gratitude to our supervisors for their guidance and support throughout this project.
 
-* **Project Supervisor: Dr. Safwat
-* **Teaching Assistant: Eng. Mohamed El-Sagheer
-
-### The Team.
-##Team Leader:
-*Hatem Harbi
-
-##Team Members:
-*Hossam
-*Mohamed Mohammady
-*Mohamed Ragab
-*Al-Moataz Billah Mahmoud
-*Saleh Ali
-*Ahmed Ismail
-*Roaa Ahmed
-*Kirollos Nader
-*Esraa Khalaf
-*Mohamed Khaled
-*Sara Atef
-*Aya Ali
+| Role | Name |
+| :--- | :--- |
+| **Project Supervisor** | **Dr. Safwat** |
+| **Teaching Assistant** | **Eng. Mohamed El-Sagheer** |
 
